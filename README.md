@@ -9,3 +9,5 @@ Proyecto web de práctica para desarrollo frontend.
 
 ## Enlace al sitio
 https://Dayner886.github.io/web2_remoto_practica/
+
+- Proyecto completado
